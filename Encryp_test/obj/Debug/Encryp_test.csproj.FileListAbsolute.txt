@@ -1,0 +1,6 @@
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\bin\Debug\Encryp_test.exe.config
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\bin\Debug\Encryp_test.exe
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\bin\Debug\Encryp_test.pdb
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\obj\Debug\Encryp_test.exe
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\obj\Debug\Encryp_test.pdb
+c:\users\jbrand\documents\visual studio 2015\Projects\Encryp_test\Encryp_test\obj\Debug\Encryp_test.csprojResolveAssemblyReference.cache
